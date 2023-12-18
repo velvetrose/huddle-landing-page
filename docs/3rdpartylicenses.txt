@@ -243,6 +243,11 @@ License: "MIT"
 
 
 --------------------------------------------------------------------------------
+Package: gsap
+License: "Standard 'no charge' license: https://gsap.com/standard-license. Club GSAP members get more: https://gsap.com/licensing/. Why GreenSock doesn't employ an MIT license: https://gsap.com/why-license/"
+
+
+--------------------------------------------------------------------------------
 Package: zone.js
 License: "MIT"
 
